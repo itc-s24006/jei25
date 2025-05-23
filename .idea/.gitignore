@@ -2,8 +2,8 @@
 /shelf/
 /workspace.xml
 #追加した無視対象ディレクトリ
-.idea/
-out/
+..
+../out/
 # エディターベースの HTTP クライアントリクエスト
 /httpRequests/
 # 環境に依存する Maven ホームディレクトリのパス

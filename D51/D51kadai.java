@@ -4,7 +4,7 @@ package D51;
 public class D51kadai {
     public static void main(String[] args) {
         double toDouble = Double.parseDouble(args[1]);
-        Double toCeil = Math.ceil(toDouble);
+        double toCeil = Math.ceil(toDouble);
         System.out.println(toCeil);
     }
 }

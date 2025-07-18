@@ -2,11 +2,11 @@ package D52;
 
 public class D52ensyu {
     public static void main(String[] args) {
-        Cat cat = new Cat();
-        cat.bark();
+        Animal tama = new Cat();
+        tama.bark();
 
-        Horse horse = new Horse();
-        horse.bark();
+        Animal ao = new Horse();
+        ao.bark();
     }
 }
 
